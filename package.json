@@ -1,6 +1,6 @@
 {
-  "name": "@vitalyros/opencvjs-wasm-modular",
-  "version": "1.0.0",
+  "name": "@vitalyros/opencvjs-separate-wasm",
+  "version": "4.5.2",
   "description": "Build of opencv.js with separate js and wasm files",
   "main": "opencv.js",
   "scripts": {
@@ -10,6 +10,8 @@
     "opencv.js",
     "opencv.wasm"
   ],
+  "homepage": "https://github.com/vitalyros/opencvjs-separate-wasm",
+  "email": "vitaly.roslov@gmail.com",
   "author": "vitaly",
   "license": "Apache-2.0"
 }
