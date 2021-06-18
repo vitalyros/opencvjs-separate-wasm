@@ -1,0 +1,15 @@
+{
+  "name": "@vitalyros/opencvjs-wasm-modular",
+  "version": "1.0.0",
+  "description": "Build of opencv.js with separate js and wasm files",
+  "main": "opencv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "opencv.js",
+    "opencv.wasm"
+  ],
+  "author": "vitaly",
+  "license": "Apache-2.0"
+}
