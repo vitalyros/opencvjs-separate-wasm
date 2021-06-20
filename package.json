@@ -1,5 +1,5 @@
 {
-  "name": "@vitalyros/opencvjs-separate-wasm",
+  "name": "@vitalyros/opencvjs-wasm-separate",
   "version": "4.5.2",
   "description": "Build of opencv.js with separate js and wasm files",
   "main": "opencv.js",
